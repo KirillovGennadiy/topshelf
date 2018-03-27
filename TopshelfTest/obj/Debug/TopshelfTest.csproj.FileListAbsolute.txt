@@ -1,0 +1,14 @@
+D:\Practice\TopshelfTest\TopshelfTest\bin\Debug\TopshelfTest.exe.config
+D:\TopshelfTest\TopshelfTest\bin\Debug\TopshelfTest.exe.config
+D:\TopshelfTest\TopshelfTest\obj\Debug\TopshelfTest.csprojResolveAssemblyReference.cache
+D:\TopshelfTest\TopshelfTest\bin\Debug\NLog.config
+D:\TopshelfTest\TopshelfTest\bin\Debug\TopshelfTest.exe
+D:\TopshelfTest\TopshelfTest\bin\Debug\TopshelfTest.pdb
+D:\TopshelfTest\TopshelfTest\bin\Debug\Autofac.dll
+D:\TopshelfTest\TopshelfTest\bin\Debug\NLog.dll
+D:\TopshelfTest\TopshelfTest\bin\Debug\Topshelf.dll
+D:\TopshelfTest\TopshelfTest\bin\Debug\Autofac.xml
+D:\TopshelfTest\TopshelfTest\bin\Debug\NLog.xml
+D:\TopshelfTest\TopshelfTest\bin\Debug\Topshelf.xml
+D:\TopshelfTest\TopshelfTest\obj\Debug\TopshelfTest.exe
+D:\TopshelfTest\TopshelfTest\obj\Debug\TopshelfTest.pdb

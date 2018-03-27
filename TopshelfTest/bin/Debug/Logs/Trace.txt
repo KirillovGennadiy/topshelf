@@ -1,0 +1,532 @@
+INFO 2018/03/26 20:32:45.246  TopshelfTest.Controller.Start: Сервис запущен 
+ERROR 2018/03/26 20:32:45.365  TopshelfTest.Services.FileManagerService.SynchCurrent: Невозможно создать файл, так как он уже существует.
+ 
+ERROR 2018/03/26 20:32:55.333  TopshelfTest.Services.FileManagerService.SynchCurrent: Невозможно создать файл, так как он уже существует.
+ 
+INFO 2018/03/26 20:33:44.090  TopshelfTest.Controller.Start: Сервис запущен 
+ERROR 2018/03/26 20:33:44.162  TopshelfTest.Services.FileManagerService.SynchCurrent: Невозможно создать файл, так как он уже существует.
+ 
+INFO 2018/03/27 09:20:23.783  TopshelfTest.Controller.Start: Сервис запущен 
+TRACE 2018/03/27 09:20:23.842  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 123.txt. Creation time: 26.03.2018 16:28:20.) moved to Archive directory 
+INFO 2018/03/27 09:20:42.593  TopshelfTest.Controller.Stop: Сервис остановлен 
+INFO 2018/03/27 09:42:04.096  TopshelfTest.Controller.Start: Сервис запущен 
+INFO 2018/03/27 09:44:30.984  TopshelfTest.Controller.Start: Сервис запущен 
+INFO 2018/03/27 09:49:31.031  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:49:31.067  TopshelfTest.Services.FileManagerService.SynchCurrent: current directory created 
+INFO 2018/03/27 09:49:31.067  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:49:31.093  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:49:31.093  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:49:31.093  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:49:41.024  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:49:41.024  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:49:41.038  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:49:41.038  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:49:41.038  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:49:51.026  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:49:51.026  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:49:51.026  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:49:51.026  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:49:51.042  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:50:01.026  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:50:01.026  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:50:01.045  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:50:01.045  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:50:01.045  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:50:11.041  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:50:11.041  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:50:11.041  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:50:11.057  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:50:11.057  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:50:21.057  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:50:21.057  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:50:21.057  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:50:21.073  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:50:21.073  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:50:31.057  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:50:31.057  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:50:31.075  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:50:31.075  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:50:31.075  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:50:41.071  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:50:41.071  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:50:41.071  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:50:41.087  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:50:41.087  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:50:51.071  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:50:51.071  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:50:51.071  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:50:51.087  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:50:51.087  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:51:01.086  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:51:01.086  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:51:01.086  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:51:01.102  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:51:01.102  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:51:11.086  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:51:11.086  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:51:11.086  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:51:11.102  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:51:11.102  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:51:21.101  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:51:21.101  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:51:21.101  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:51:21.117  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:51:21.117  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:51:31.102  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:51:31.102  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:51:31.102  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:51:31.118  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:51:31.118  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:51:41.116  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:51:41.116  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:51:41.131  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:51:41.131  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:51:41.131  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:51:51.131  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:51:51.131  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:51:51.131  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:51:51.147  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:51:51.147  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:52:01.131  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:52:01.131  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:52:01.131  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:52:01.147  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:52:01.147  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:52:11.146  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:52:11.146  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:52:11.163  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:52:11.163  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:52:11.163  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:52:21.146  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:52:21.146  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:52:21.146  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:52:21.146  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:52:21.146  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:52:31.161  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:52:31.161  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:52:31.161  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:52:31.161  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:52:31.161  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:52:41.163  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:52:41.163  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:52:41.163  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:52:41.163  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:52:41.163  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:52:51.176  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:52:51.176  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:52:51.194  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:52:51.194  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:52:51.194  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:53:01.177  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:53:01.177  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:53:01.177  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:53:01.191  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:53:01.191  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:53:11.191  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:53:11.191  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:53:11.191  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:53:11.191  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:53:11.191  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:53:21.206  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:53:21.206  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:53:21.206  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:53:21.206  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:53:21.206  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:53:31.206  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:53:31.206  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:53:31.206  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:53:31.222  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:53:31.222  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:53:41.223  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:53:41.223  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:53:41.237  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:53:41.237  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:53:41.237  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:53:51.224  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:53:51.224  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:53:51.224  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:53:51.224  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:53:51.224  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:54:01.236  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:54:01.236  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:54:01.253  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:54:01.253  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:54:01.253  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:54:11.239  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:54:11.239  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:54:11.253  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:54:11.253  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:54:11.253  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:54:21.251  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:54:21.251  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:54:21.251  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:54:21.267  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:54:21.267  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:54:31.252  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:54:31.252  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:54:31.266  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:54:31.266  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:54:31.266  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:54:41.265  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:54:41.265  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:54:41.265  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:54:41.281  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:54:41.281  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:54:51.281  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:54:51.281  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:54:51.281  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:54:51.297  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:54:51.297  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:55:01.282  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:55:01.282  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:55:01.282  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:55:01.282  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:55:01.282  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:55:11.296  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:55:11.296  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:55:11.312  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:55:11.312  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:55:11.312  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:55:21.297  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:55:21.297  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:55:21.297  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:55:21.313  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:55:21.313  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:55:31.311  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:55:31.311  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:55:31.326  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:55:31.326  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:55:31.326  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:55:41.312  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:55:41.312  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:55:41.326  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:55:41.326  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:55:41.326  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:55:51.325  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:55:51.325  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:55:51.325  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:55:51.325  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:55:51.325  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:56:01.341  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:56:01.341  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:56:01.341  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:56:01.357  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:56:01.357  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:56:11.344  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:56:11.344  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:56:11.344  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:56:11.344  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:56:11.344  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:56:21.356  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:56:21.356  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:56:21.372  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:56:21.372  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:56:21.372  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:56:31.357  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:56:31.357  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:56:31.372  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:56:31.372  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:56:31.372  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:56:41.371  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:56:41.371  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:56:41.371  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:56:41.387  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:56:41.387  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:56:51.372  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:56:51.372  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:56:51.372  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:56:51.372  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:56:51.372  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:57:01.385  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:57:01.385  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:57:01.385  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:57:01.401  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:57:01.401  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:57:11.386  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:57:11.386  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:57:11.386  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:57:11.386  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:57:11.386  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:57:21.401  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:57:21.401  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:57:21.401  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:57:21.401  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:57:21.401  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:57:31.416  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:57:31.416  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:57:31.416  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:57:31.416  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:57:31.416  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:57:41.417  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:57:41.417  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:57:41.417  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:57:41.417  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:57:41.417  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:57:51.431  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:57:51.431  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:57:51.431  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:57:51.446  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:57:51.446  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:58:01.432  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:58:01.432  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:58:01.432  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:58:01.432  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:58:01.432  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:58:11.448  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:58:11.448  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:58:11.465  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:58:11.465  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:58:11.465  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:58:21.449  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:58:21.449  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:58:21.463  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:58:21.463  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:58:21.463  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:58:31.461  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:58:31.461  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:58:31.461  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:58:31.477  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:58:31.477  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:58:41.461  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:58:41.461  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:58:41.477  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:58:41.477  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:58:41.477  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:58:51.476  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:58:51.476  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:58:51.476  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:58:51.476  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:58:51.476  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:59:01.491  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:59:01.491  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:59:01.491  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:59:01.491  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:59:01.491  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:59:11.492  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:59:11.492  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:59:11.492  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:59:11.506  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:59:11.506  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:59:21.507  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:59:21.507  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:59:21.507  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:59:21.523  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:59:21.523  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:59:31.507  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:59:31.507  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:59:31.521  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:59:31.521  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:59:31.521  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:59:41.521  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:59:41.521  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:59:41.521  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:59:41.537  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:59:41.537  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 09:59:51.523  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 09:59:51.523  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 09:59:51.537  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 09:59:51.537  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 09:59:51.537  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:00:01.536  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:00:01.536  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:00:01.536  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:00:01.536  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:00:01.536  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:00:11.551  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:00:11.551  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:00:11.551  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:00:11.551  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:00:11.551  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:00:21.552  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:00:21.552  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:00:21.552  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:00:21.567  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:00:21.567  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:00:31.569  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:00:31.569  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:00:31.583  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:00:31.583  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:00:31.583  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:00:41.569  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:00:41.569  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:00:41.584  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:00:41.584  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:00:41.584  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:00:51.581  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:00:51.581  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:00:51.581  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:00:51.581  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:00:51.581  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:01:01.581  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:01:01.581  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:01:01.581  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:01:01.581  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:01:01.596  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:01:11.598  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:01:11.598  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:01:11.612  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:01:11.612  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:01:11.612  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:01:21.598  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:01:21.598  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:01:21.612  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:01:21.612  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:01:21.612  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:01:31.611  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:01:31.611  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:01:31.611  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:01:31.627  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:01:31.627  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:01:41.627  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:01:41.627  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:01:41.627  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:01:41.627  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:01:41.627  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:01:51.627  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:01:51.627  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:01:51.641  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:01:51.641  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:01:51.641  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:02:01.641  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:02:01.641  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:02:01.641  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:02:01.658  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:02:01.658  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:02:11.641  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:02:11.641  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:02:11.641  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:02:11.641  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:02:11.641  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:02:21.656  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:02:21.656  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:02:21.656  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:02:21.656  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:02:21.656  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:02:31.656  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:02:31.656  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:02:31.656  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:02:31.671  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:02:31.671  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:02:41.671  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:02:41.671  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:02:41.688  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:02:41.688  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:02:41.688  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:02:51.673  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:02:51.673  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:02:51.687  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:02:51.687  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:02:51.687  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:03:01.686  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:03:01.686  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:03:01.686  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:03:01.701  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:03:01.701  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:03:11.701  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:03:11.701  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:03:11.701  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:03:11.701  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:03:11.717  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:03:21.701  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:03:21.701  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:03:21.701  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:03:21.701  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:03:21.701  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:03:31.716  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:03:31.716  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:03:31.716  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:03:31.716  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:03:31.732  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:03:41.716  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:03:51.731  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:03:55.058  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+INFO 2018/03/27 10:03:55.058  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:03:55.112  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+ERROR 2018/03/27 10:03:55.124  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:03:55.124  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+INFO 2018/03/27 10:03:55.124  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:03:55.124  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+TRACE 2018/03/27 10:03:55.124  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:04:01.734  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:04:01.734  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:04:01.749  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:04:01.749  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:04:01.749  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:04:11.746  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:04:11.746  TopshelfTest.Services.FileManagerService.SynchCurrent: Archive directory created 
+ERROR 2018/03/27 10:04:11.746  TopshelfTest.Services.FileManagerService.SynchCurrent: Не удалось найти часть пути "D:\TopshelfDir\Current". 
+INFO 2018/03/27 10:04:11.765  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:04:11.765  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:04:14.781  TopshelfTest.Controller.Stop: Сервис остановлен 
+INFO 2018/03/27 10:04:33.454  TopshelfTest.Controller.Start: Сервис запущен 
+INFO 2018/03/27 10:07:20.714  TopshelfTest.Controller.Start: Сервис запущен 
+INFO 2018/03/27 10:11:52.171  TopshelfTest.Controller.Start: Сервис запущен 
+INFO 2018/03/27 10:16:52.203  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:16:52.228  TopshelfTest.Services.FileManagerService.SynchCurrent: current directory created 
+TRACE 2018/03/27 10:16:52.228  TopshelfTest.Services.FileManagerService.SynchCurrent: No files in current directory 
+INFO 2018/03/27 10:16:52.228  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+INFO 2018/03/27 10:16:52.228  TopshelfTest.Services.FileManagerService.CheckArchive: Archive directory created 
+TRACE 2018/03/27 10:16:52.228  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:17:02.204  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:17:02.204  TopshelfTest.Services.FileManagerService.SynchCurrent: No files in current directory 
+INFO 2018/03/27 10:17:02.204  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:17:02.204  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:17:12.219  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:17:12.219  TopshelfTest.Services.FileManagerService.SynchCurrent: No files in current directory 
+INFO 2018/03/27 10:17:12.219  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:17:12.219  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:17:22.234  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:17:22.234  TopshelfTest.Services.FileManagerService.SynchCurrent: No files in current directory 
+INFO 2018/03/27 10:17:22.234  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:17:22.234  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:17:32.235  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:17:32.235  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:17:32.235  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:17:42.249  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:17:42.249  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:17:42.249  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:17:52.250  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:17:52.250  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:17:52.250  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:18:02.264  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:18:02.264  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:18:02.264  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:23:07.278  TopshelfTest.Controller.Start: Сервис запущен 
+INFO 2018/03/27 10:23:07.312  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:23:07.333  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 1.txt. Creation time: 27.03.2018 10:17:25.) moved to Archive directory 
+TRACE 2018/03/27 10:23:07.346  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 32.xlsx. Creation time: 27.03.2018 10:17:32.) moved to Archive directory 
+INFO 2018/03/27 10:23:07.346  TopshelfTest.Services.FileManagerService.SynchCurrent: Nothing to move 
+INFO 2018/03/27 10:23:07.346  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:23:07.346  TopshelfTest.Services.FileManagerService.CheckArchive: File (file Name: 1.txt. Creation time: 27.03.2018 10:17:25.) delete from Archive directory 
+TRACE 2018/03/27 10:23:07.346  TopshelfTest.Services.FileManagerService.CheckArchive: File (file Name: 32.xlsx. Creation time: 27.03.2018 10:17:32.) delete from Archive directory 
+INFO 2018/03/27 10:24:49.408  TopshelfTest.Controller.Start: Сервис запущен 
+INFO 2018/03/27 10:24:49.460  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:24:49.481  TopshelfTest.Services.FileManagerService.SynchCurrent: Nothing to move 
+INFO 2018/03/27 10:24:49.481  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+TRACE 2018/03/27 10:24:49.481  TopshelfTest.Services.FileManagerService.CheckArchive: No files in archive directory 
+INFO 2018/03/27 10:29:49.457  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:29:49.457  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 1.txt. Creation time: 27.03.2018 10:24:21.) moved to Archive directory 
+TRACE 2018/03/27 10:29:49.479  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 12.xlsx. Creation time: 27.03.2018 10:24:25.) moved to Archive directory 
+TRACE 2018/03/27 10:29:49.479  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 1234.rar. Creation time: 27.03.2018 10:24:30.) moved to Archive directory 
+TRACE 2018/03/27 10:29:49.479  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 33.txt. Creation time: 27.03.2018 10:24:21.) moved to Archive directory 
+INFO 2018/03/27 10:29:49.479  TopshelfTest.Services.FileManagerService.SynchCurrent: Nothing to move 
+INFO 2018/03/27 10:29:49.479  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+INFO 2018/03/27 10:29:49.479  TopshelfTest.Services.FileManagerService.CheckArchive: Nothing to delete 
+INFO 2018/03/27 10:34:49.460  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:34:49.460  TopshelfTest.Services.FileManagerService.SynchCurrent: No files in current directory 
+INFO 2018/03/27 10:34:49.460  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+INFO 2018/03/27 10:34:49.460  TopshelfTest.Services.FileManagerService.CheckArchive: Nothing to delete 
+INFO 2018/03/27 10:39:49.462  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:39:49.462  TopshelfTest.Services.FileManagerService.SynchCurrent: No files in current directory 
+INFO 2018/03/27 10:39:49.462  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+INFO 2018/03/27 10:39:49.462  TopshelfTest.Services.FileManagerService.CheckArchive: Nothing to delete 
+INFO 2018/03/27 10:44:49.475  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+INFO 2018/03/27 10:44:49.475  TopshelfTest.Services.FileManagerService.SynchCurrent: Nothing to move 
+INFO 2018/03/27 10:44:49.475  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+INFO 2018/03/27 10:44:49.475  TopshelfTest.Services.FileManagerService.CheckArchive: Nothing to delete 
+INFO 2018/03/27 10:49:49.477  TopshelfTest.Controller.SynchCurrent: Запуск сканирования текущей дериктории 
+TRACE 2018/03/27 10:49:49.477  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 551.txt. Creation time: 27.03.2018 10:43:51.) moved to Archive directory 
+TRACE 2018/03/27 10:49:49.477  TopshelfTest.Services.FileManagerService.SynchCurrent: File (file Name: 897465633.bmp. Creation time: 27.03.2018 10:44:04.) moved to Archive directory 
+INFO 2018/03/27 10:49:49.477  TopshelfTest.Services.FileManagerService.SynchCurrent: Nothing to move 
+INFO 2018/03/27 10:49:49.477  TopshelfTest.Controller.CheckArchive: Запуск сканирования архивной дериктории 
+INFO 2018/03/27 10:49:49.477  TopshelfTest.Services.FileManagerService.CheckArchive: Nothing to delete 
